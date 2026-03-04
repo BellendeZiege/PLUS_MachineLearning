@@ -1,5 +1,7 @@
 # Statistical Learning Theory
 
+**Converted from LaTex with Claude.ai**
+
 **Univ.-Prof. Dr. Roland Kwitt** — Summer Semester 2025
 
 Book: *Understanding Machine Learning* — Shai Shalev-Shwartz and Shai Ben-David
